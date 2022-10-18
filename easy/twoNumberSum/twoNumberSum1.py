@@ -1,4 +1,4 @@
-# O(n^2) time and O(1) space
+# O(n^2) time and O(1) space memory 
 def twoNumberSum(array, targetSum):
     for i in range(len(array) - 1):
         for j in range(i + 1, len(array)):
