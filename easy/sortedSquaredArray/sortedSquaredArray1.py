@@ -1,4 +1,4 @@
-# O(nlog(n)) time and O(n) space
+# O(nlog(n)) time and O(n) space memory 
 def sortSquaredArray(array):
     sortedArray = []
     for num in array:
