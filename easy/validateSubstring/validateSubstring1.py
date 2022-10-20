@@ -1,4 +1,4 @@
-# O(n) time and O(1) space
+# O(n) time and O(1) space memory 
 def isValidateSubstring(array, sequence):
     arrPos = 0
     seqPos = 0
